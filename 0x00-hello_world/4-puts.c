@@ -1,9 +1,8 @@
 #include<stdio.h>
 
-/*
- * this is the first program with c
- * puts: this function prints the string
- * Return 0: in the success case
+/**
+ * main - prints phrase and the starting point
+ * Return: 0 in Success
  */
 int main(void)
 {
