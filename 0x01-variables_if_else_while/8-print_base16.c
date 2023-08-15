@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - prints phrase and the starting point
+ * main - prints all the nubers in base 16
  * Return: 0 in Success
  */
 int main(void)
 {
-	/* base 16 */
 	int num;
 	char c;
 	
