@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 void _puts_recursion(char *s);
-_print_rev_recursion("\nColton Walker");
+void _print_rev_recursion(char *s);
 int _putchar(char c);
 #endif /* MAIN_H */
