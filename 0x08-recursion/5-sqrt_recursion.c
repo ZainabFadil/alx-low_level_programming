@@ -11,6 +11,7 @@ int _sqrt_recursion(int n)
 {
 	double x;
 
+	/*sqrt function */
 	x = sqrt(n);
 	if ((int) x == (float) x)
 		return (x);
